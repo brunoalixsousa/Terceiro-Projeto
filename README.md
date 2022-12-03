@@ -1,3 +1,3 @@
 # Terceiro-Projeto
-um novo projeto onde colocarei em pratica o que aprendi 
-Nesse projeto eu pretendo colocar em pratica meu aprendizado com flex-box
+um novo projeto onde me desafio a colocar  em pratica o que aprendi 
+e esse projeto eu usarei meu aprendizado com flex-box
